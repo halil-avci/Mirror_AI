@@ -3,7 +3,7 @@ import torch
 from diffusers import StableDiffusionPipeline, DPMSolverMultistepScheduler
 
 # Set up Gemini API key
-genai.configure(api_key="AIzaSyDl1HcnPshkAHxDUXtsHK6vs9TX9YD2-LE")
+genai.configure(api_key="API_KEY")
 
 # Load SD 2.1 
 pipe = StableDiffusionPipeline.from_pretrained(
