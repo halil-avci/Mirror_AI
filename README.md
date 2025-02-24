@@ -1,41 +1,42 @@
 # Mirror_AI
 A Small AI project that creates a futuristic image of a given text.
 
-## Successful Images
-<p align="center">
-  <figure style="display:inline-block; margin: 15px;">
-    <img src="Generated_Images/city.png" alt="INPUT: a city" width="300">
-    <figcaption align="center"><b>INPUT: a city</b></figcaption>
-  </figure>
-  
-  <figure style="display:inline-block; margin: 15px;">
-    <img src="Generated_Images/plane1.png" alt="INPUT: a plane" width="300">
-    <figcaption align="center"><b>INPUT: a plane</b></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin: 15px;">
-    <img src="Generated_Images/eyeglasses1.png" alt="INPUT: eyeglasses" width="300">
-    <figcaption align="center"><b>INPUT: eyeglasses</b></figcaption>
-  </figure>
-</p>
+## Successfully Generated Images
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Generated_Images/city.png" alt="INPUT: a city" width="300"><br>
+      <b>INPUT: a city</b>
+    </td>
+    <td align="center">
+      <img src="Generated_Images/plane1.png" alt="INPUT: a plane" width="300"><br>
+      <b>INPUT: a plane</b>
+    </td>
+    <td align="center">
+      <img src="Generated_Images/eyeglasses1.png" alt="INPUT: eyeglasses" width="300"><br>
+      <b>INPUT: eyeglasses</b>
+    </td>
+  </tr>
+</table>
 
 ## Failed Images
-<p align="center">
-  <figure style="display:inline-block; margin: 15px;">
-    <img src="Generated_Images/plane2.png" alt="INPUT: a plane" width="300">
-    <figcaption align="center"><b>INPUT: a plane</b></figcaption>
-  </figure>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Generated_Images/plane2.png" alt="INPUT: a plane" width="300"><br>
+      <b>INPUT: a plane</b>
+    </td>
+    <td align="center">
+      <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="300"><br>
+      <b>INPUT: eyeglasses</b>
+    </td>
+    <td align="center">
+      <img src="Generated_Images/eyeglasses3.png" alt="INPUT: eyeglasses" width="300"><br>
+      <b>INPUT: eyeglasses</b>
+    </td>
+  </tr>
+</table>
 
-  <figure style="display:inline-block; margin: 15px;">
-    <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="300">
-    <figcaption align="center"><b>INPUT: eyeglasses</b></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin: 15px;">
-    <img src="Generated_Images/eyeglasses3.png" alt="INPUT: eyeglasses" width="300">
-    <figcaption align="center"><b>INPUT: eyeglasses</b></figcaption>
-  </figure>
-</p>
 ## System Strengths
 
 ### Accurate and Descriptive Text Generation for Common Objects
