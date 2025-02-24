@@ -4,14 +4,14 @@ A Small AI project that creates a futuristic image of a given text.
 ## 🖼️ Generated Images
 
 <p align="center">
-  <img src="image1.png" alt="Image 1" width="200">
-  <img src="image2.png" alt="Image 2" width="200">
-  <img src="image3.png" alt="Image 3" width="200">
+  <img src="Generated_Images/city.png" alt="Input: a city" width="200">
+  <img src="Generated_Images/city.png" alt="Image 2" width="200">
+  <img src="Generated_Images/city.png" alt="Image 3" width="200">
 </p>
 
 <p align="center">
-  <img src="image4.png" alt="Image 4" width="200">
-  <img src="image5.png" alt="Image 5" width="200">
+  <img src="Generated_Images/city.png" alt="Image 4" width="200">
+  <img src="Generated_Images/city.png" alt="Image 5" width="200">
 </p>
 
 
