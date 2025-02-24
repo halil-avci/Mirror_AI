@@ -4,20 +4,16 @@ A Small AI project that creates a futuristic image of a given text.
 ## Generated Images
 
 <p align="center">
-  <img src="Generated_Images/city.png" alt="Input: a city" width="200">
-  Deneme Text
+  <img src="Generated_Images/city.png" alt="INPUT: a city" width="200">
+  <img src="Generated_Images/plane1.png" alt="INPUT: a plane" width="200">
+  <img src="Generated_Images/eyeglasses1.png" alt="INPUT: eyeglasses" width="200">
 </p>
 
 <p align="center">
-  <img src="Generated_Images/city.png" alt="Input: a city" width="200">
-  Deneme Text
+  <img src="Generated_Images/plane2.png" alt="INPUT: a plane" width="200">
+  <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="200">
+  <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="200">
 </p>
-
-<p align="center">
-  <img src="Generated_Images/city.png" alt="Image 4" width="200">
-  <img src="Generated_Images/city.png" alt="Image 5" width="200">
-</p>
-
 
 ## System Strengths
 
