@@ -23,7 +23,8 @@ The system is designed to process up to a couple of words. This flexibility allo
 When given abstract inputs like "love" or "emotion," the system fails to generate meaningful responses.
 
 ### Generated Images Sometimes Include Artifacts or Missing Details
-While simple objects are generally well-represented, complex concepts or multi-word inputs sometimes lead to inconsistent or incomplete images. Although Stable Diffuser is given a negative prompt like this: 
+While simple objects are generally well-represented, complex concepts or multi-word inputs sometimes lead to inconsistent or incomplete images. Although Stable Diffuser 2.1 is given a negative prompt like this: "cropped, cut-off, blurry, out of frame, missing parts, bad anatomy, disfigured"
+It occasionally generated some cut-off, blurry images.
 
 ### Longer or Complex Prompts May Be Truncated or Misinterpreted
 The system has difficulty processing detailed or long-form inputs. The model may cut off essential elements, leading to partial or vague descriptions. This occurs because Stable Diffusion enforces a maximum of 77 tokens as input and ignores the end parts of the prompt.
