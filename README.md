@@ -1,12 +1,16 @@
 # Mirror_AI
 A Small AI project that creates a futuristic image of a given text.
 
-## 🖼️ Generated Images
+## Generated Images
 
 <p align="center">
   <img src="Generated_Images/city.png" alt="Input: a city" width="200">
-  <img src="Generated_Images/city.png" alt="Image 2" width="200">
-  <img src="Generated_Images/city.png" alt="Image 3" width="200">
+  Deneme Text
+</p>
+
+<p align="center">
+  <img src="Generated_Images/city.png" alt="Input: a city" width="200">
+  Deneme Text
 </p>
 
 <p align="center">
