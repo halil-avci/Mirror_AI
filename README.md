@@ -4,15 +4,37 @@ A Small AI project that creates a futuristic image of a given text.
 ## Generated Images
 
 <p align="center">
-  <img src="Generated_Images/city.png" alt="INPUT: a city" width="200">
-  <img src="Generated_Images/plane1.png" alt="INPUT: a plane" width="200">
-  <img src="Generated_Images/eyeglasses1.png" alt="INPUT: eyeglasses" width="200">
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="Generated_Images/city.png" alt="INPUT: a city" width="200">
+    <figcaption align="center">INPUT: a city</figcaption>
+  </figure>
+  
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="Generated_Images/plane1.png" alt="INPUT: a plane" width="200">
+    <figcaption align="center">INPUT: a plane</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="Generated_Images/eyeglasses1.png" alt="INPUT: eyeglasses" width="200">
+    <figcaption align="center">INPUT: eyeglasses</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="Generated_Images/plane2.png" alt="INPUT: a plane" width="200">
-  <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="200">
-  <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="200">
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="Generated_Images/plane2.png" alt="INPUT: a plane" width="200">
+    <figcaption align="center">INPUT: a plane</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="Generated_Images/eyeglasses2.png" alt="INPUT: eyeglasses" width="200">
+    <figcaption align="center">INPUT: eyeglasses</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="Generated_Images/eyeglasses3.png" alt="INPUT: eyeglasses" width="200">
+    <figcaption align="center">INPUT: eyeglasses</figcaption>
+  </figure>
 </p>
 
 ## System Strengths
